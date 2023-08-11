@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project has been done by Sharon Wanjiru and Callistus Namurende
 
 0x00. AirBnB clone - The console
@@ -95,3 +96,6 @@ Update your command interpreter (console.py) to update an instance based on his 
 
 17. Unittests for the Console!
  all unittests for console.py, all features!
+=======
+It's me and my partner
+>>>>>>> 654eb7633356ce5e35eadba8f9604d08a91d85e4

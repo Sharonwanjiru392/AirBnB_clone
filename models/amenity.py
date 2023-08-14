@@ -1,19 +1,9 @@
 #!/usr/bin/python3
-<<<<<<< HEAD
-"""Contains the Amenity model"""
+"""Defines the Amenity class."
 from models.base_model import BaseModel
 
-
 class Amenity(BaseModel):
-    """Implements the Amenity model"""
-    name = ""
-=======
-"""Define the Amenity class."""
-from model.base_model import BaseModel
-
-class Amenity(BaseModel):
-    """Represent amenity.
+    """Represent an amenity.
     Attributes:
-        name (str): The name of amenity."""
+        name (str): The name of the amenity."""
         name = ""
->>>>>>> 654eb7633356ce5e35eadba8f9604d08a91d85e4

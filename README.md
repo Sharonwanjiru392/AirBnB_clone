@@ -1,4 +1,3 @@
-
 This project has been done by Sharon Wanjiru and Callistus Namurende
 
 0x00. AirBnB clone - The console
